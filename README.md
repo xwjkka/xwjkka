@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Olesya 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwjkka)](https://github.com/xwjkka/github-readme-stats)
+
 
 <!--
 **xwjkka/xwjkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
