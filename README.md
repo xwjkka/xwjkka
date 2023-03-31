@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Olesya 
-- school 21: jeannakr
+<p>school 21: jeannakr
 <!-- **xwjkka/xwjkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
